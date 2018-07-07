@@ -43,4 +43,4 @@ GITHUB PROFILE :https://github.com/aman16011
 NAME : Suyash Singh
 OCCUPATION : Student
 NAME OF COLLEGE : IIIT Delhi
-GITHUB PROFILE :https://github.com/suyashsingh
+GITHUB PROFILE :https://github.com/suyash-singh27
